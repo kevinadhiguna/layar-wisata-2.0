@@ -20,3 +20,5 @@ Layar Wisata 2.0 is responsive :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/layar-wisata-2.0/master/demo/responsive-4.0.png" width="45%"></img>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/layar-wisata-2.0/master/demo/responsive-4.1.png" width="45%"></img>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/layar-wisata-2.0/master/demo/responsive-5.png" width="45%"></img>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/layar-wisata-2.0)](https://github.com/kevinadhiguna)
